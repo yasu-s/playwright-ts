@@ -1,2 +1,6 @@
 # playwright-ts
-Playwright + TypeScript
+
+## 概要
+
+- Playwright + TypeScript
+- https://github.com/microsoft/playwright
